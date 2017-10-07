@@ -1,5 +1,7 @@
 //create a function to move gambit
 
+alert("its a 2 player game. Control Gambit with the arrow keys and wolverine with W,A,S,D. Whoever gets the most points for catching the enemy wins!!!");
+
 // document.onkeydown = moveGambit;
 // var xman = document.getElementById("xman");
 //
